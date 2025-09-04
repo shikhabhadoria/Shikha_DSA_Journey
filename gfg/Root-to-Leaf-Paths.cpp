@@ -40,3 +40,48 @@ class Solution {
         return ans;
     }
 };
+
+
+//traversal approach
+class Solution {
+  public:
+    vector<vector<int>> Paths(Node* root) {
+        // code here
+        vector<vector<int>> ans;
+        if(!root) return ans;
+        
+        stack<pair<Node* , vector<int>>> s;
+        s.push({root , {root->data}});
+        
+        while(!s.empty()){
+            int size = s.size();
+            for(int i = 0; i<size; i++){
+                Node* temp = s.top().first;
+                vector<int> curr = s.top().second;
+                s.pop();
+                
+                if(!temp->left && !temp->right){
+                    ans.push_back(curr);
+                }
+                
+                
+                if(temp->right){
+                    vector<int> rv = curr;
+                    rv.push_back(temp->right->data);
+                    s.push({temp->right , {rv}});
+                }
+                
+                
+                if(temp->left){
+                    vector<int> lv = curr;
+                    lv.push_back(temp->left->data);
+                    s.push({temp->left , {lv}});
+                }
+                
+                
+            }
+        }
+        return ans;
+        
+    }
+};
