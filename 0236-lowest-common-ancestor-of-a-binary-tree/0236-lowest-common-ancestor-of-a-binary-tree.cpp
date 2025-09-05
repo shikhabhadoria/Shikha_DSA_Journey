@@ -9,33 +9,39 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root , TreeNode* n , vector<TreeNode*> &path){
-        if(!root){
-            return false;
-        }
-        path.push_back(root);
-        if(root == n){
-            return true;
-        }
-        if(helper(root->left , n , path) || helper(root->right , n , path)){
-            return true;
-        }
-        path.pop_back();
-        return false;
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> pans;
-        vector<TreeNode*> qans;
+        unordered_map<TreeNode* , TreeNode*> parent;
+        parent[root] = nullptr;
+        stack<TreeNode*> s;
+        s.push(root);
 
-        helper(root , p , pans);
-        helper(root , q , qans);
+        while(!s.empty()){
+            TreeNode* node = s.top();
+            s.pop();
 
-        int i = 0;
-        TreeNode* ans = nullptr;
-        while(i < pans.size() && i < qans.size() && pans[i] == qans[i]){
-            ans = pans[i];
-            i++;
+            if(node->left){
+                parent[node->left] = node;
+                s.push(node->left);
+            }
+
+            if(node->right){
+                parent[node->right] = node;
+                s.push(node->right);
+            }
         }
-        return ans;
+
+        unordered_set<TreeNode*> ancestor;
+
+        while(p){
+            ancestor.insert(p);
+            p = parent[p];
+        }
+
+        while(ancestor.find(q) == ancestor.end()){
+            q = parent[q];
+        }
+
+        return q;
+
     }
 };
