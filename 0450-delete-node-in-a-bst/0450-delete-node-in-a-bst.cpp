@@ -11,42 +11,31 @@
  */
 class Solution {
 public:
-    TreeNode* helper(TreeNode* node){
-        while(node->left != NULL){
-            node = node->left;
-        }
-        return node;
-    }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root){
-            return nullptr;
-        }
-
-        if(root->val > key){
-            root->left = deleteNode(root->left , key);
-        }
-        else if(root->val < key){
-            root->right = deleteNode(root->right , key);
-        }
-        else{
-            if(root->right == NULL){
-                TreeNode* temp = root->left;
-                delete root;
-                return temp;
+        if(root){
+            if(root->val > key){
+                root->left = deleteNode(root->left , key);
             }
-            else if(root->left == NULL){
-                TreeNode* temp = root->right;
-                delete root;
-                return temp;
+            else if(root->val < key){
+                root->right = deleteNode(root->right , key);
             }
             else{
-                TreeNode* successor = helper(root->right);
-                root->val = successor->val;
-                root->right = deleteNode(root->right , successor->val);
+                if(root->right == NULL){
+                    return root->left;
+                }
+                else if(root->left == NULL){
+                    return root->right;
+                }
+                else{
+                    TreeNode* temp = root->left;
+                    while(temp->right != NULL){
+                        temp = temp->right;
+                    }
+                    root->val = temp->val;
+                    root->left = deleteNode(root->left , temp->val);
+                }
             }
         }
-
         return root;
-
     }
 };
