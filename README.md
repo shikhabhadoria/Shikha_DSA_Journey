@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
