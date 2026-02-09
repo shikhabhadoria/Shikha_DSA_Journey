@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
