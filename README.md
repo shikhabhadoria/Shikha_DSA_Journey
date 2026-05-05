@@ -135,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
