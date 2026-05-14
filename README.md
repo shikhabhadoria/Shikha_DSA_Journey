@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Union Find
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0912-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
 ## Matrix
