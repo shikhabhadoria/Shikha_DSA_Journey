@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0450-delete-node-in-a-bst) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0912-sort-an-array) |
