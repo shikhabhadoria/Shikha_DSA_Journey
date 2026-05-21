@@ -17,12 +17,12 @@ public:
                 
                 if(element >= k){
                     timer += element / k;
-                    element = element % k;
                 }
-                
-                if(element != 0 && element < k){
+
+                if(element % k != 0){
                     timer++;
                 }
+                
             }
 
             if(timer <= h){
