@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Union Find
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
