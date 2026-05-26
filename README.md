@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0875-koko-eating-bananas) |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
