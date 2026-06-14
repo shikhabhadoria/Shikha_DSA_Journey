@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-rotting-oranges](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1036-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/0410-split-array-largest-sum) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/shikhabhadoria/Shikha_DSA_Journey/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
